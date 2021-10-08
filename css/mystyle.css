@@ -1,0 +1,11 @@
+h1{
+    color: #ff0000;
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    width: 200px;
+    border: solid 2px;
+    padding: 50px;
+    border-radius: 25px;
+}
